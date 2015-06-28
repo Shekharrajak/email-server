@@ -4,7 +4,7 @@
   "description": "Server for Sending Custom Emails using Node JS.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"    
+    "start": "node email-server.js"    
   },
   "author": "Kartik Jain",
   "license": "UNLICENSE",
